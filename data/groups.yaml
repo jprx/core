@@ -208,13 +208,13 @@ sigs:
     email: myc2@illinois.edu
   - name: SIGPwny
     description: Special Interest Group for Security
-    chairs: Joseph Ravichandran
+    chairs: Thomas Quig, Joseph Ravichandran
     meetings:
       - topic: General Meeting
         meetingTime: 'Thursday 6:00 PM - 7:00 PM'
-        meetingLocation: Siebel 1314
+        meetingLocation: https://sigpwny.com/discord
     website: https://sigpwny.com
-    email: jpr3@illinois.edu
+    email: tquig2@illinois.edu
   - name: SIGBlockchain
     description: Special Interest Group for Blockchain Technologies
     chairs: Jason Maldonado
